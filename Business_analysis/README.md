@@ -13,6 +13,7 @@ It is necessary to study:
 - how much money does each client bring,
 - when the cost of attracting a client pays off,
 - what factors prevent attracting customers.
-- 
+
 Data description
+
 Three datasets have been provided. The visits_info_short.csv file stores the server log with information about site visits, orders_info_short.csv — information about orders, and costs_info_short.csv — information about advertising expenses.
