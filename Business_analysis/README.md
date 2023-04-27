@@ -1,7 +1,8 @@
 # Business_analysis
 
-It is necessary to study the data of the Procrastinate Pro+ entertainment application. Despite huge investments in advertising, the company has been suffering losses for the past few months. The task is to understand the reasons and help the company to become a plus.
+It is necessary to study the data of the Procrastinate Pro+ entertainment application. Despite huge investments in advertising, the company has been suffering losses for the past few months. The task is to understand the reasons and help the company to raise income.
 There is data on users attracted from May 1 to October 27, 2019:
+
 - server log with data on their visits,
 - unloading of their purchases for this period,
 - advertising expenses.
