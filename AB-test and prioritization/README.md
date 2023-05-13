@@ -1,20 +1,14 @@
-# Business_analysis
+# A/B-test and prioritization 
 
-It is necessary to study the data of the Procrastinate Pro+ entertainment application. Despite huge investments in advertising, the company has been suffering losses for the past few months. The task is to understand the reasons and help the company to raise income.
-There is data on users attracted from May 1 to October 27, 2019:
+The data of a large online store is provided. It is necessary to prioritize the hypotheses provided by the marketing department to increase revenue, run an A/B test and analyze its results.
 
-- server log with data on their visits,
-- unloading of their purchases for this period,
-- advertising expenses.
+Data description:
 
-It is necessary to study:
+- hypothesis.csv is a dataset that stores data about hypotheses. Contains a brief description of the hypothesis, the reach of users on a 10-point scale, the impact on users on a 10-point scale, and the cost of resources to test the hypothesis on a 10-point scale.
+- orders.csv - stores data about orders of online store users. Contains the order ID, the user who made the order, the order date, the revenue from the order, and the test group that the order fell into.
+- visitors - stores data about the visitors of the online store. Contains the date of the visit, the A/B test group, and the number of users on the specified date in the specified A/B test group.
+- 
+Action plan:
 
-- where users come from and what devices they use,
-- how much does it cost to attract users from various advertising channels;
-- how much money does each client bring,
-- when the cost of attracting a client pays off,
-- what factors prevent attracting customers.
-
-Data description
-
-Three datasets have been provided. The visits_info_short.csv file stores the server log with information about site visits, orders_info_short.csv — information about orders, and costs_info_short.csv — information about advertising expenses.
+Prioritize hypotheses using the ICE and RICE frameworks, study the results and explain what the changes in prioritization are related to.
+Analyze the results of the A/B test: plot graphs, calculate percentiles and statistical significance.
