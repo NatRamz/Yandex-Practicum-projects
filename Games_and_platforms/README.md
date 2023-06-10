@@ -3,7 +3,7 @@ Historical data on game sales, user and expert ratings, genres and platforms (fo
 Data up to 2016 are presented.
 The data set contains the abbreviation ESRB (Entertainment Software Rating Board), an association that determines the age rating of computer games. ESRB evaluates game content and assigns it a suitable age category, for example, "For adults", "For younger children" or "For teenagers".
 
-Research Steps:
+## Research Steps:
 
 1. Data preprocessing
 2. Calculation of total sales by region
@@ -18,7 +18,7 @@ Research Steps:
 11. Study of the impact of the ESRB rating on sales in certain regions
 12. Testing hypotheses about the average user ratings of platforms and genres. 
 
-Conclusions:
+## Conclusions:
 
 In this project, I researched historical data on game sales, user and critic ratings, genres and gaming platforms. The purpose of the study is to identify patterns that determine the success of the game in order to bet on a potentially popular product in 2017 and plan advertising campaigns.
 
