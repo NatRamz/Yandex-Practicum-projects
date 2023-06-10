@@ -3,7 +3,7 @@ At my disposal were provided the data of the Yandex Real Estate service — an a
 I preprocessed the data and studied them to find interesting features and dependencies that exist in the real estate market.
 The database contains two types of data about each apartment: user-added and cartographic. For example, the first type includes the area of the apartment, its floor and the number of balconies, the second — the distance to the city center, the airport and the nearest park.
 
-Research Steps:
+## Research Steps:
 
 1. Data preprocessing
 2. Research data analysis: determination of normal parameters of apartments.
@@ -12,7 +12,7 @@ Research Steps:
 5. Calculation of the average price per square meter in 10 localities with the largest number of ads
 6. Calculation of the average price of one kilometer from the city center in St. Petersburg
 
-Conclusions:
+## Conclusions:
 
 In this project, I researched and analyzed a dataframe with real estate data in various localities. During the study, a number of important dependencies were identified.
 
