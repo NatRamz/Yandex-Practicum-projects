@@ -2,17 +2,17 @@
 
 The data of a startup that sells food is provided. It is necessary to study the behavior of users of the mobile application, the sales funnel and the results of the A/A/B experiment.
 
-Data description:
+## Data description:
 - eventName - event name
 - Device ID HAsh - unique user ID
 - Event TimeStamp - time of the event
 - ExpID - experiment number: 246 and 247 - control groups, 248 - experimental.
 
-Action plan:
+## Action plan:
 - Explore the sales funnel
 - To investigate the results of the A/A/B experiment.
 
-Conclusions 
+## Conclusions 
 
 During the verification and examination of the data, it was found that the data up to August 1, 2019 is incomplete and contains very few records. Therefore, it was decided to drop the records until 1.08.2019.
 
