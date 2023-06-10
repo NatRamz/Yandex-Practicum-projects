@@ -20,7 +20,7 @@ moscow_places.csv file:
 - district — the administrative district in which the establishment is located, for example, the Central Administrative District;
 seats — the number of seats.
 
-Presentation with the results: <https://disk .yandex.ru/i/bqoq6s4OnnCjAA>
+Presentation with the results: <https://disk.yandex.ru/i/bqoq6s4OnnCjAA>
 
 ## General conclusion 
 Establishments are distributed by category as follows: cafes and restaurants occupy 25.5% and 25%, coffee shops are in third place - 17.8%. Bars and pubs occupy 9.49%, pizzerias - 7.98%, fast food establishments - 7.24%, and canteens and bakeries - 3.89% and 3.16% respectively.
